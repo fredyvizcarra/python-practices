@@ -48,7 +48,7 @@ cocodrilo = Reptile("coco", "cocodrilo", 40, False)
 #       Peso: {tita.weight} 
 #       """)
 
-print(Reptile.show_information(cocodrilo))
+print(cocodrilo.show_information())
 #se crea una instancia de la clase zooo
 my_zoo = Zoo()
 # my_zoo.add_animal(cocodrilo)
